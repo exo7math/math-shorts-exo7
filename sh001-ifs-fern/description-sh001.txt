@@ -4,12 +4,13 @@ https://en.wikipedia.org/wiki/Iterated_function_system
 
 In French: http://exo7.emath.fr/cours/ch_ifs.pdf
 
-sh001-ifs-fern
-
 Author: Arnaud Bodin
 
 Original music "music-sh001" by Abblepuff
 https://open.spotify.com/intl-fr/artist/2ZLKoGXFozGYqZxHPqYlw2
+
+sh001-ifs-fern
+Code: https://github.com/exo7math/math-shorts-exo7
 
 Thanks to: Nicolas P. Rougier, Kroum Tzanev.
 
