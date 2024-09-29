@@ -1,0 +1,1 @@
+ffmpeg -i video.mp4 -i audio.wav -map 0:0 -map 1:0 -vcodec copy -acodec copy newvideo.mp4

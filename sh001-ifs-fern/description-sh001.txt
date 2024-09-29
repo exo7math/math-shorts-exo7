@@ -1,0 +1,17 @@
+[sh001] Fractal IFS - Barnsley fern
+
+https://en.wikipedia.org/wiki/Iterated_function_system
+
+In French: http://exo7.emath.fr/cours/ch_ifs.pdf
+
+sh001-ifs-fern
+
+Author: Arnaud Bodin
+
+Original music "music-sh001" by Abblepuff
+https://open.spotify.com/intl-fr/artist/2ZLKoGXFozGYqZxHPqYlw2
+
+Thanks to: Nicolas P. Rougier, Kroum Tzanev.
+
+Math-Shorts: Short videos of Mathematics
+https://www.youtube.com/@Math-Shorts-Exo7
