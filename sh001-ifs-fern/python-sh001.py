@@ -99,8 +99,8 @@ fig, ax = plt.subplots(figsize=(fig_width_in, fig_height_in))
 
 
 plt.axis('off')
-ax.set_xlim(-3, 3)
-ax.set_ylim(0, 11)
+ax.set_xlim(-3, 3.5)
+ax.set_ylim(-0.5, 12)
 ax.set_aspect('equal')
 
 fig.set_facecolor(black_exo7)
@@ -120,7 +120,7 @@ def tempo(n):
 xlift = -0.2  # horizontal translation
 ylift = 0.5   # vertical translation
 scat = ax.scatter(xlift+liste_x[0], ylift+liste_y[0], color=green_fern, s=0.25)
-mytext = ax.text(-1, 10, '', ha='center', color=black_exo7, fontsize=40, weight='bold')
+mytext = ax.text(-1.5, 10, '', ha='center', color=black_exo7, fontsize=30, weight='bold')
 
 def update(frame):
     # for each frame, update the data stored on each artist.
@@ -166,6 +166,6 @@ ani = animation.FuncAnimation(fig=fig, func=update, frames=540, interval=1, repe
 
 
 ffmpeg_writer = animation.FFMpegWriter(fps=fps, bitrate=-1)
-# ani.save('video-nomusic-sh001.mp4', writer=ffmpeg_writer)
+ani.save('video-nomusic-sh001.mp4', writer=ffmpeg_writer)
 
 # plt.show()
