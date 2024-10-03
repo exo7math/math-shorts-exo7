@@ -45,6 +45,8 @@
 # ----------------------
 # plus nécéssaire car un .gitignore par répértoire
 
+# Manim files
+media/
 
 # tous les resultats pdf
 # ----------------------

@@ -1,3 +1,18 @@
-ffmpeg -i video.mp4 -i audio.wav -map 0:0 -map 1:0 -vcodec copy -acodec copy newvideo.mp4
+# Add a music to a video file
 
-ffmpeg -i video-nomusic-sh001.mp4 -i music-sh001.wav -map 0:v:0 -map 1:a:0 -vcodec copy -acodec aac  video-sh001.mp4
+ffmpeg -i myvideo.mp4 -i myaudio.wav -map 0:0 -map 1:0 -vcodec copy -acodec copy newvideo.mp4
+
+
+# Change ".wav" to a codec ".aac" accepted by Youtube
+
+ffmpeg -i video-nomusic-sh002.mp4 -i music-sh002.wav -map 0:v:0 -map 1:a:0 -vcodec copy -acodec aac  video-sh002.mp4
+
+
+# Exact duration of a video
+
+ffmpeg -i myvideo.mp4 -f null -
+
+
+# Exact duration of a music
+
+ffmpeg -i mymusic.wav -f null -
