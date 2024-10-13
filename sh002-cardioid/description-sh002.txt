@@ -1,0 +1,17 @@
+[sh002] Cardioid
+
+https://en.wikipedia.org/wiki/Cardioid
+https://mathcurve.com/courbes2d.gb/cardioid/cardioid.shtml
+
+Author: Arnaud Bodin
+
+Original music "music-sh002" by Abblepuff
+https://open.spotify.com/intl-fr/artist/2ZLKoGXFozGYqZxHPqYlw2
+
+sh002-cardioid
+Code: https://github.com/exo7math/math-shorts-exo7
+
+Thanks to: Nicolas P. Rougier, Kroum Tzanev.
+
+Math-Shorts: Short videos of Mathematics
+https://www.youtube.com/@Math-Shorts-Exo7
