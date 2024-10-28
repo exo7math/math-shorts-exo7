@@ -1,0 +1,16 @@
+[sh003] Ulam Spiral
+
+https://en.wikipedia.org/wiki/Ulam_spiral
+
+Author: Arnaud Bodin
+
+Original music "music-sh003" by Abblepuff
+https://open.spotify.com/intl-fr/artist/2ZLKoGXFozGYqZxHPqYlw2
+
+sh003-spiral-ulam
+Code: https://github.com/exo7math/math-shorts-exo7
+
+Thanks to: Nicolas P. Rougier, Kroum Tzanev.
+
+Math-Shorts: Short videos of Mathematics
+https://www.youtube.com/@Math-Shorts-Exo7
