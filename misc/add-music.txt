@@ -16,3 +16,7 @@ ffmpeg -i myvideo.mp4 -f null -
 # Exact duration of a music
 
 ffmpeg -i mymusic.wav -f null -
+
+
+# Important!
+# When adding a video, in 'details' click on 'plus' and 'Do not inform my subscribers'
