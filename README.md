@@ -18,6 +18,7 @@ Videos
 * [sh004] [Lagrange polynomials](https://youtube.com/shorts/Wwyr32K9giE)
 * [sh005] [Truchet tilings](https://youtube.com/shorts/GwtAZu5WjD0)
 * [sh006] [Triangular numbers](https://youtube.com/shorts/utcwn-yZ6I0)
+* [sh007] [Mandelbrot's fractal](https://youtube.com/shorts/yLhPFGWLHuQ)
 
 
 ![Logo Exo7](misc/logo_exo7.png "logo Exo7")
