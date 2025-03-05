@@ -17,7 +17,7 @@ color_integer = '#ced4da'  # GRAY 4   ## OLD '#adb5bd'  # GRAY5
 edge_gray = '#495057'    # GRAY7
 
 color_prime = '#d6336c'  # PINK7
-color_not_prime = '#d0bfff' # VIOLET2
+color_not_prime = '#d0bfff' # VIOLET2 
 
 text_color = 'lightgray'
 

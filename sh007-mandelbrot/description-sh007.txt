@@ -1,0 +1,12 @@
+[sh007] Mandelbrot's fractal
+
+Author: Arnaud Bodin
+
+Original music "music-sh007" by Abblepuff
+https://open.spotify.com/intl-fr/artist/2ZLKoGXFozGYqZxHPqYlw2
+
+sh007-mandelbrot
+Code: https://github.com/exo7math/math-shorts-exo7
+
+Math-Shorts: Short videos of Mathematics
+https://www.youtube.com/@Math-Shorts-Exo7
