@@ -20,6 +20,7 @@ Videos
 * [sh006] [Triangular numbers](https://youtube.com/shorts/utcwn-yZ6I0)
 * [sh007] [Mandelbrot's fractal](https://youtube.com/shorts/yLhPFGWLHuQ)
 * [sh008] [Lissajous curves and the Meta logo](https://youtube.com/shorts/nGO3F-W4btk)
+* [sh009] [The Galton board and the bell curve](https://youtube.com/shorts/IMS1B7Ne_Dw)
 
 
 ![Logo Exo7](misc/logo_exo7.png "logo Exo7")
